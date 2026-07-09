@@ -1,0 +1,6 @@
+{
+  "name": "HUSTLR",
+  "description": "A modern campus-focused freelance and collaboration marketplace that helps students earn, build projects, find teammates, and grow their professional reputation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
